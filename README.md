@@ -1,0 +1,2 @@
+# Generators
+I like to write in my spare time. Occasionally, I come across weird things in my stories that I need help naming, and I can't find any decent generators on the web to help me name what I need to name. So, being the programmer that I am, I just write my own. I might create GUI's for these eventually, but for now, they'll just be hosted here. If you need names for things, feel free to download the code to generate your names. 
