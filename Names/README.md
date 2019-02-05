@@ -4,4 +4,6 @@ I have decided to create a simple name generator. Why? Because it's fun. That's 
 
 Unlike some of my other generators in here, I took CSV files with names and built the data files from those. I wrote a Python tool to do that. The original CSV files came from the [US Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html) for first names and the [US Census Bureau](https://www.census.gov/topics/population/genealogy/data/2010_surnames.html) for the last names. 
 
-The Name Generator Perl script generates a mix of male and female names. 
+NameParser.py: Cleans up the data files linked above for use with the generators.
+names.pl: Generates a mix of first and last names. 
+girls.pl: Generates exclusively female names
