@@ -6,4 +6,6 @@ Unlike some of my other generators in here, I took CSV files with names and buil
 
 NameParser.py: Cleans up the data files linked above for use with the generators.
 names.pl: Generates a mix of first and last names. 
-girls.pl: Generates exclusively female names
+girl_names.pl: Generates exclusively female names
+boy_names.pl: Generates exclusively male names
+last_names.pl: Generates only last names
