@@ -1,4 +1,5 @@
 #Name Parser
+#Cleans up the name CSV files for use with Perl
 #Programmed by Mary Sonnabend
 
 #import modules
